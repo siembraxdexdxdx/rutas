@@ -5,6 +5,6 @@
     <title>Mi Página</title>
 </head>
 <body>
-    <h1>¡Hola desde GitHub Pages!</h1>
+    <h1>¡Putos!</h1>
 </body>
 </html>
